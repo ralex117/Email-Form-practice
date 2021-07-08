@@ -1,0 +1,16 @@
+div.wrap {
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+label {
+    display: block;
+}
+
+input, textarea {
+    width: 500px;
+}
+
+textarea {
+    height: 200px;
+}
